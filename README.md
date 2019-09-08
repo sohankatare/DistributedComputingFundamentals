@@ -27,6 +27,7 @@ Also, change docker_script.sh to inlude the exact commands used by your team.
 8.Commit your changes and verify that the changes have been added.  
 9.Email me a link to your team repo on the same email ID as last week.   
 
+GROUP 2: SOHAN KATARE, SANJANA NASALAI, SURABHI SHANGBOGH, PRERANA HADADI
 
 
 
